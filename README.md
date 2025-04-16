@@ -20,7 +20,7 @@ A simple command-line weather application that provides current weather informat
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/weather-app-python.git
+   git clone https://github.com/Enock122/weather-app-python.git
    cd weather-app-python
    ```
 
