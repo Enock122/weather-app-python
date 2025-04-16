@@ -1,6 +1,5 @@
 # weather-app-python
 app
-# Weather App Python
 
 A simple command-line weather application that provides current weather information for any city worldwide.
 
